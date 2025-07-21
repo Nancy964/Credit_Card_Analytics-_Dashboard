@@ -1,11 +1,11 @@
 ##  Credit_Card_Analytics-_Dashboard
 📌 Project Overview:
 This dashboard project uses weekly data to provide clear insights into:
-💰 Where the money is coming from
-👥 Who the most valuable customers are
-🛍️ What people are spending on
-🕒 Which weeks saw high or low spending
-📈 How performance is changing over time
+💰 Where the money is coming from    
+👥 Who the most valuable customers are    
+🛍️ What people are spending on    
+🕒 Which weeks saw high or low spending    
+📈 How performance is changing over time    
 There are two main dashboards:
 Customer Overview Dashboard – Shows who your customers are and how valuable they are.
 Transaction Overview Dashboard – Shows how customers are spending money and what brings in the most revenue.
