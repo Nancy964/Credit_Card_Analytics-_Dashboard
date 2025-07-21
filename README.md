@@ -17,7 +17,7 @@ How do we turn this complex data into something easy to understand?
 How can managers quickly find out which customers are bringing in money and which services are popular?    
 How do we know who might leave or what to improve?    
 ## 🎯 Goals of the Dashboard:          
-🧠 Help non-technical users like sales managers, marketers, or executives get answers without reading raw data.
+🧠 Help non-technical users like sales managers, marketers, or executives get answers without reading raw data.    
 📊 Present important weekly trends in revenue, spending habits, and satisfaction.  
 💡 Find areas to increase profits or improve customer satisfaction.    
 
